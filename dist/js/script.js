@@ -1,4 +1,5 @@
 'use strict';
+
 window.addEventListener('DOMContentLoaded', ()=> {
 
     const tabContent = document.querySelectorAll('.tabcontent');
@@ -208,5 +209,7 @@ window.addEventListener('DOMContentLoaded', ()=> {
     ).render();
 
     
+       
+      
 });
 
